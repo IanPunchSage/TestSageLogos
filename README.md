@@ -1,0 +1,1 @@
+Test whether can access logo and woff files
